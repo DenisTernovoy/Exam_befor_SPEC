@@ -18,12 +18,12 @@ if (int.TryParse(num, out int number))
     }
 
     string[] newArray = new string[counter];
-    int help_count = 0;
+    int helpCount = 0;
     for (int i = 0; i < array.Length; i++)
     {
         if (array[i].Length <= 3) {
-            newArray[help_count] = array[i];
-            help_count += 1;
+            newArray[helpCount] = array[i];
+            helpCount += 1;
         }
     }
     Console.WriteLine();
