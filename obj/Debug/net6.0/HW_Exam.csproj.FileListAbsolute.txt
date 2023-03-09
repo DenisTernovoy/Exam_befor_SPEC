@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\bin\Debug\net6.0\HW_Exam.exe
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\bin\Debug\net6.0\HW_Exam.deps.json
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\bin\Debug\net6.0\HW_Exam.runtimeconfig.json
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\bin\Debug\net6.0\HW_Exam.dll
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\bin\Debug\net6.0\HW_Exam.pdb
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.dll
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\refint\HW_Exam.dll
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.pdb
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\HW_Exam.genruntimeconfig.cache
+C:\Users\denis\OneDrive\Рабочий стол\HW_Exam\obj\Debug\net6.0\ref\HW_Exam.dll
